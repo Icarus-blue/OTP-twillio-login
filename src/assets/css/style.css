@@ -1,0 +1,22 @@
+.container {
+    margin-top: 20px;
+    display: flex;
+    /* Use flexbox to align the input boxes horizontally */
+}
+
+.input-box {
+    margin-right: 5px;
+    font-size: 20px;
+    width: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #9F9F9F;
+    text-align: center;
+    /* Add some margin between the input boxes */
+}
+
+.image-style {
+    width: 70px;
+    height: 70px;
+    border-radius: 70px;
+}
